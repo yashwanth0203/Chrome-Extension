@@ -16,7 +16,7 @@ if (leadsFromLocalStorage) {
 }
 
 const tabs = [
-    {url: "https://www.linkedin.com/in/per-harald-borgen/"}
+    {url: "https://www.linkedin.com/in/yashwanth-kumar-m-v/"}
 ]
 
 tabBtn.addEventListener("click", function(){
