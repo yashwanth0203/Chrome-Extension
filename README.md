@@ -1,12 +1,12 @@
-Users should be able to:
- >Save URLs by writing them into input element.
- >Save the current Chrome tab in the list.
- >Maintain leads even after closing the browser.
- >Delete all leads by double clicking on the last button.
+Users should be able to:<br>
+ >Save URLs by writing them into input element.<br>
+ >Save the current Chrome tab in the list.<br>
+ >Maintain leads even after closing the browser.<br>
+ >Delete all leads by double clicking on the last button.<br>
  
  
-How to install:
->Clone Repo or Download Zip
->Visit chrome://extensions/ and turn on "Developer mode"
->Click "Load unpacked" button and navigate to the folder you downloaded
->That's it! 🎉
+How to install:<br>
+>Clone Repo or Download Zip<br>
+>Visit chrome://extensions/ and turn on "Developer mode".<br>
+>Click "Load unpacked" button and navigate to the folder you downloaded.<br>
+>That's it! 🎉<br>
